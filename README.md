@@ -27,7 +27,7 @@ Você precisará instalar em seu PC: <br>
 ## no terminal digite os comandos:
 
 1 - git clone https://github.com/daniel2tavares/api-rest-restaurante.git<br>
-2 - cd api-rest-restaurante
+2 - cd api-rest-restaurante<br>
 3 - npm install: Para instalar as dependencias necessárias para rodar o projeto<br>
 4 - npm start: Para iniciar o Projeto<br>
 
